@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">使用须知</view>
+    </view>
+    <view class="page__bd">
+        <text>
+            我的心分成两半，一半因为责任留给我的妻子，另一半留在新桥底下，用此一生来思念你。
+        </text>
+        <text>
+            人生那个东西，也许只是在一段刻骨铭心之后才算是真正的开始，但有时候想想，徒留遗憾罢了。
+        </text>
+    </view>
+</view>

@@ -1,0 +1,4 @@
+/* pages/introduce/introduce.wxss */
+.page{
+    padding: 0 20rpx;
+}
